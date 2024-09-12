@@ -1,0 +1,1 @@
+using company as service from '../../srv/projects';
